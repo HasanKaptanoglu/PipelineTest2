@@ -4,6 +4,9 @@
       "path": "TestPipeline2.Test"
     },
     {
+      "path": "TestPipeline2"
+    },
+    {
       "path": ".AL-Go"
     }
   ],

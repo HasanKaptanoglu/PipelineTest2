@@ -7,6 +7,9 @@
       "path": "TestPipeline2"
     },
     {
+      "path": "TestPipeline2.PerformanceTest"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
